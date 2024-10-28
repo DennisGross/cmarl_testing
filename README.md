@@ -10,7 +10,6 @@ Our main contributions include an explainable metric for CMARL miscoordination, 
 ## Paper Data
 The results for the paper are stored in the `logs` directory.
 There is a seperate log file for centralized and decentralized policies.
-The paper plots can be found in plots.
 
 ## Experiments
 To run the experiments, install the requirements in `requirements.txt` and execute `run_all.sh` in the root directory.
